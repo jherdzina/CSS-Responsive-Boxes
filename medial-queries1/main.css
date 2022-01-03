@@ -47,7 +47,7 @@ body {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
-    margin: auto;
+    
     flex-flow: row wrap;
     margin: 10px;
   }
